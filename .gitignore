@@ -1,0 +1,5 @@
+/.storage/
+/frontend/app/.next
+/frontend/app/node_modules
+.env
+/node_modules
